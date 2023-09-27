@@ -5,10 +5,10 @@
 + <b>Description:</b>Setting up AWS EKS</br>
 # Setting up AWS EKS
 Step 1:Create the IAM user and provide the Admin Access.
-Username: murali
+Username: moole
 Step 1.1: Login to the AWS Console using moole user
 ```xml
-UserName = murali
+UserName = moole
 ```
 Step 2: Create the VPC and 2 public subnets
 
