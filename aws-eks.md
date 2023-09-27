@@ -5,7 +5,9 @@
 + <b>Description:</b>Setting up AWS EKS</br>
 # Setting up AWS EKS
 Step 1:Create the IAM user and provide the Admin Access.
+```xml
 Username: moole
+```
 Step 1.1: Login to the AWS Console using moole user
 ```xml
 UserName = moole
