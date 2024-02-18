@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: my-resource-quota
+  namespace: murali
+spec:
+  hard:
+    cpu: "2"
+    memory: 2Gi
