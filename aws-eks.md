@@ -1,7 +1,6 @@
-+ <b>Author: Moole Muralidhara Reddy</b></br>
-+ <b>Email:</b> telugudevopsguru@gmail.com</br>
-+ <b>Website:</b> https://www.telugudevopsguru.com/</br>
-+ <b>Mobile:</b>+91 7893121036</br>
++ <b>Author: Suneel Kumar Kola </b></br>
++ <b>Email:</b> sunilraju3@gmail.com</br>
++ <b>Mobile:</b>+91 8247766377</br>
 + <b>Description:</b>Setting up AWS EKS</br>
 # Setting up AWS EKS
 Step 1:Create the IAM user and provide the Admin Access.
